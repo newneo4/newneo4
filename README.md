@@ -18,8 +18,8 @@ Mi nombre es [Tu Nombre], ¡encantado de conocerte!
 - 📊 [Proyecto 2](enlace-al-proyecto): Un análisis exhaustivo de datos sobre el impacto del cambio climático en diferentes regiones del mundo, utilizando Python y bibliotecas de Ciencia de Datos.
 
 #### ¡Contáctame!
-- 📫 [Correo Electrónico](mailto:tuemail@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+- 📫 [Correo Electrónico](mailto:noel123mch@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/noe-ulises-machaca-chambilla-0a11472aa/)
 - 🌐 [Sitio Web Personal](https://www.tusitio.com)
 
 #### Estadísticas de GitHub
