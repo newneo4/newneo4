@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-Mi nombre es [Tu Nombre], ¡encantado de conocerte!
+Mi nombre es Noé, ¡encantado de conocerte!
 
 #### Sobre mí
 - 🎓 Actualmente estudio en la Universidad Nacional de los Andes.
