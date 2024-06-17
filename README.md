@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=sklearn,selenium,tensorflow,opencv,pytorch" />
     </a>
     </p>
-<li><h3>🛠️ Herramientas y Frameworks:</h3> Git, GitHub, Trello, ClickUp, Discord, Figma</li>
+<li><h3>🛠️ Herramientas y Frameworks:</h3></li>
   <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,linux,ps" />
