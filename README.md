@@ -28,7 +28,7 @@
   <h4>Backend</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,express,mongodb,postgres,mysql,nextjs,docker,flask" />
+      <img src="https://skillicons.dev/icons?i=nodejs,spring,express,mongodb,postgres,mysql,nextjs,flask" />
     </a>
   </p>
   <li><h3>📊 Ciencia de Datos:</h3></li>
@@ -40,7 +40,7 @@
   <li><h3>🛠️ Herramientas y Frameworks:</h3></li>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,linux,ps" />
+      <img src="https://skillicons.dev/icons?i=github,git,linux,docker,ps" />
     </a>
   </p>
 </ul>
