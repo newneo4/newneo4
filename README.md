@@ -1,6 +1,11 @@
-<h1 align="center">Hola que tal !! Mi nombre es Noé, ¡encantado de conocerte!</h1>
 
 ![pikaso_reimagine_digital-painting-Colorful-abstract-background-with](https://github.com/newneo4/newneo4/assets/105571999/0cfad50f-140d-45e3-a334-c6eee75153d0)
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hola+que+tal+!!+Mi+nombre+es+No%C3%A9" alt="Typing SVG">
+  </a>
+</div>
 
 <h2>Sobre mí</h2>
 <ul>
