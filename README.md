@@ -1,6 +1,6 @@
 <h1 align="center">Hola que tal !! Mi nombre es Noé, ¡encantado de conocerte!</h1>
 
-![1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X](https://github.com/newneo4/newneo4/assets/105571999/15ce25a7-7754-4fab-8ade-6657a3c90836)
+![pikaso_reimagine_digital-painting-Colorful-abstract-background-with](https://github.com/newneo4/newneo4/assets/105571999/0cfad50f-140d-45e3-a334-c6eee75153d0)
 
 <h2>Sobre mí</h2>
 <ul>
