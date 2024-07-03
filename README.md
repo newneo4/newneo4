@@ -6,9 +6,10 @@
   </a>
 </div>
 
-# 🔍 Sobre mí
-<p align="left"> <img src="" alt="imagen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=newneo4&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
+# 🔍 Sobre mí
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 Actualmente estudio en la Universidad Nacional del Altiplano.</li>
 - 🌱 Estoy apasionado por aprender y mejorar mis habilidades en Ciencia de Datos y Desarrollo Web.</li>
