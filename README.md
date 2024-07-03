@@ -7,7 +7,7 @@
 </div>
 
 # 🔍 Sobre mí
-<p align="left"> <img src="" alt="rishavchanda" /> </p>
+<p align="left"> <img src="" alt="imagen" /> </p>
 
 
 - 🎓 Actualmente estudio en la Universidad Nacional del Altiplano.</li>
