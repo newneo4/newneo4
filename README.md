@@ -7,13 +7,14 @@
 </div>
 
 # 🔍 Sobre mí
-<ul>
-  <li>🎓 Actualmente estudio en la Universidad Nacional del Altiplano.</li>
-  <li>🌱 Estoy apasionado por aprender y mejorar mis habilidades en Ciencia de Datos y Desarrollo Web.</li>
-  <li>💼 Estoy buscando oportunidades para colaborar en proyectos desafiantes y emocionantes que me permitan aplicar mis conocimientos y seguir creciendo profesionalmente.</li>
-  <li>⚡ Dato curioso: ¡Adoro jugar al ajedrez y la programación competitiva considero que me ayuda a desarrollar habilidades analíticas y estratégicas!</li>
-  <li>📧 Si quieres enviarme un correo puedes hacerlo a <a href="mailto:noel123mch@gmail.com">noel123mch@gmail.com</a>.</li>
-</ul>
+<p align="left"> <img src="" alt="rishavchanda" /> </p>
+
+
+- 🎓 Actualmente estudio en la Universidad Nacional del Altiplano.</li>
+- 🌱 Estoy apasionado por aprender y mejorar mis habilidades en Ciencia de Datos y Desarrollo Web.</li>
+- 💼 Estoy buscando oportunidades para colaborar en proyectos desafiantes y emocionantes que me permitan aplicar mis conocimientos y seguir creciendo profesionalmente.</li>
+- ⚡ Dato curioso: ¡Adoro jugar al ajedrez y la programación competitiva considero que me ayuda a desarrollar habilidades analíticas y estratégicas!</li>
+- 📧 Si quieres enviarme un correo puedes hacerlo a <a href="mailto:noel123mch@gmail.com">noel123mch@gmail.com</a>.</li>
 
 <h2>💻 Habilidades y Tecnologías</h2>
 <ul>
@@ -50,48 +51,61 @@
   </p>
 </ul>
 
-# 🥇 Proyectos Destacados
+# 🥇 Proyectos Destacados 
+
+## 📊DATA SCIENCE
 <table>
 <tr>
 <td width="50%">
-<h3>Nombre del Proyecto 1</h3>
+<h3>ANALISIS Y PREDICCION DE ABANDONO DE CARRITO</h3>
 <div>
-<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
-<a href="Enlace-al-proyecto" target="_blank">
+<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">La busqueda de la prediccion y las caracteristicas propias del abandono de carritos dentro de las web e-commerce nos llevo a mi equipo y a mi a un analisis exhaustivo y desarrollo de un modelo para la prediccion de los mismos</p>
+<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                                            
 </td>
 <td width="50%">
-<h3>Nombre del Proyecto 2</h3>
+<h3>PREDICCION DE SQL INJECTION</h3>
 <div>                                       
-<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
+<a href="[Enlace-al-proyecto](https://github.com/newneo4/Dashboard-SQL-Injection)" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">Los crecientes problemas de seguridad sobre consultas a Base de datos nos llevo a desarrollar una herramienta que pudiera prevenir las mismas de manera efectiva y simple el proyecto abarca este problema mediante la creacion de un dashboard interactivo y la carga de un modelo predictivo para SQL Injection.</p>
 </div>                                                             
-<a href="Enlace-al-proyecto" target="_blank">
+<a href="https://github.com/newneo4/Dashboard-SQL-Injection" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3>Nombre del Proyecto 3</h3>
+<h3>DETECCION DE CANCER DE PIEL</h3>
 <div>
-<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
-<a href="Enlace-al-proyecto" target="_blank">
+<a href="https://github.com/newneo4/skin_cancer" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">Un aumento significativo en casos de cancer de piel durante los ultimos años me llevo a desarrollar una herramienta que pudiera facilitar y agilizar descartes tempranos de cancer de piel mediante la toma de imagenes y el desarrollo de un modelo que clasifica de forma eficaz la ausencia o presencia del tipo de cancer en el paciente.</p>
+<a href="https://github.com/newneo4/skin_cancer" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-FC911C?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                                            
 </td>
 <td width="50%">
-<h3>Nombre del Proyecto 4</h3>
+<h3>API SQL Injection</h3>
 <div>                                       
-<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
+<a href="https://github.com/newneo4/Servicio-Detector-SQL-Injection" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">La agilizacion y accesibilidad al servicio de prediccion de SQL Injection me llevo a desarrollar una API intuitiva para la consulta y prediccion de la misma dado un input basado en una querie.</p>
 </div>                                                             
-<a href="Enlace-al-proyecto" target="_blank">
+<a href="https://github.com/newneo4/Servicio-Detector-SQL-Injection" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+<td width="50%">
+<h3>DETECTOR ENFERMEDADES DENTALES</h3>
+<div>                                       
+<a href="https://github.com/newneo4/DentIA" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">Una accesibilidad rapida y barata puede ayudar a la prevencion de muchas enfermedades en este caso las dentalles. El proyecto abarca la toma de imagenes dentales propias mediante una webcam o una camara de celular para la deteccion de enfermedades dentales teniendo una interfaz amigable y facil de entender, ademas de permitir la carga de imagenes locales para su posterior prediccion.</p>
+</div>                                                             
+<a href="https://github.com/newneo4/DentIA" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
