@@ -13,6 +13,7 @@
   <li>🌱 Estoy apasionado por aprender y mejorar mis habilidades en Ciencia de Datos y Desarrollo Web.</li>
   <li>💼 Estoy buscando oportunidades para colaborar en proyectos desafiantes y emocionantes que me permitan aplicar mis conocimientos y seguir creciendo profesionalmente.</li>
   <li>⚡ Dato curioso: ¡Adoro jugar al ajedrez y la programación competitiva considero que me ayuda a desarrollar habilidades analíticas y estratégicas!</li>
+  <li>📧 Si quieres enviarme un correo puedes hacerlo a <a href="mailto:noel123mch@gmail.com">noel123mch@gmail.com</a>.</li>
 </ul>
 
 <h2>Habilidades y Tecnologías</h2>
