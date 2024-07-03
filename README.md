@@ -136,6 +136,18 @@
 </a>
 </td>
 </tr>
+  <tr>
+<td width="50%">
+<h3>DENTAL HEALTH</h3>
+<div>
+<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank"><img src="" width="100%" alt="DASHBOARD DENTISTA"></a>
+<p align="justify">La poca facilidad de gestion de citas ademas de las dificultades de administracion en una clinica dental nos llevo a desarrollar una plataforma web que comprende la gestion de reserva de citas y cuenta personalizada de pacientes y la administracion de los mismos de parte de los dentistas ademas de componentes de historial clinico y odontograma para la automatizacion de estos procesos contando con procesos de autenticado y facil escalibilidad</p>
+<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                            
+</td>
+</tr>
 </table>
 
 # 🌐 Contacto
