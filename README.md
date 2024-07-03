@@ -96,16 +96,13 @@
 </a>
 </td>
 </tr>
-<tr>
-<td colspan="2">
-<h3>Contacto</h3>
-<ul>
-  <li>📫 <a href="mailto:noel123mch@gmail.com">noel123mch@gmail.com</a></li>
-</ul>
-</td>
-</tr>
 </table>
 
+# 🌐 Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-u-machaca/)
+ <a href="mailto:noel123mch@gmail.com">
+    <img src="https://img.shields.io/badge/Correo%20Electrónico-%231DA1F2.svg?logo=gmail&logoColor=white">
+  </a>
 
 <h2>Estadísticas de GitHub</h2>
 <div align="center">
