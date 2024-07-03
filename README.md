@@ -1,4 +1,3 @@
-
 ![pikaso_reimagine_digital-painting-Colorful-abstract-background-with](https://github.com/newneo4/newneo4/assets/105571999/0cfad50f-140d-45e3-a334-c6eee75153d0)
 
 <div align="center">
@@ -7,7 +6,7 @@
   </a>
 </div>
 
-<h2>Sobre mí</h2>
+# 🔍 Sobre mí
 <ul>
   <li>🎓 Actualmente estudio en la Universidad Nacional del Altiplano.</li>
   <li>🌱 Estoy apasionado por aprender y mejorar mis habilidades en Ciencia de Datos y Desarrollo Web.</li>
@@ -16,15 +15,15 @@
   <li>📧 Si quieres enviarme un correo puedes hacerlo a <a href="mailto:noel123mch@gmail.com">noel123mch@gmail.com</a>.</li>
 </ul>
 
-<h2>Habilidades y Tecnologías</h2>
+<h2>💻 Habilidades y Tecnologías</h2>
 <ul>
-  <li><h3>Lenguajes de programación</h3></li>
+  <li><h3>🖥️ Lenguajes de programación</h3></li>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cpp,js,py,r,java,c" />
     </a>
   </p>
-  <li><h3>💻 Desarrollo Web:</h3></li>
+  <li><h3>🌐 Desarrollo Web:</h3></li>
   <h4>Frontend</h4>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -51,7 +50,7 @@
   </p>
 </ul>
 
-<h2>  🥇 Proyectos Destacados</h2>
+# 🥇 Proyectos Destacados
 <table>
 <tr>
 <td width="50%">
@@ -99,13 +98,13 @@
 </tr>
 </table>
 
-# 🌐 Contacto:
+# 🌐 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-u-machaca/)
  <a href="mailto:noel123mch@gmail.com">
-    <img src="https://img.shields.io/badge/Correo%20Electrónico-%231DA1F2.svg?logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/📧%20Correo%20Electrónico-%231DA1F2.svg?logo=gmail&logoColor=white">
   </a>
 
-<h2>Estadísticas de GitHub</h2>
+# 📊 Estadísticas de GitHub
 <div align="center">
   <picture>
     <source
