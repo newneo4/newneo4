@@ -50,18 +50,62 @@
   </p>
 </ul>
 
-<h2>Proyectos Destacados</h2>
+<h2>  🥇 Proyectos Destacados</h2>
+<table>
+<tr>
+<td width="50%">
+<h3>Nombre del Proyecto 1</h3>
+<div>
+<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
+<a href="Enlace-al-proyecto" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                            
+</td>
+<td width="50%">
+<h3>Nombre del Proyecto 2</h3>
+<div>                                       
+<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
+</div>                                                             
+<a href="Enlace-al-proyecto" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>Nombre del Proyecto 3</h3>
+<div>
+<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
+<a href="Enlace-al-proyecto" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-FC911C?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                            
+</td>
+<td width="50%">
+<h3>Nombre del Proyecto 4</h3>
+<div>                                       
+<a href="Enlace-al-proyecto" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">Descripción detallada del proyecto. Puedes explicar el propósito, las tecnologías utilizadas y los resultados obtenidos.</p>
+</div>                                                             
+<a href="Enlace-al-proyecto" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h3>Contacto</h3>
 <ul>
-  <li>🚀 [Proyecto 1](enlace-al-proyecto): Una aplicación web interactiva desarrollada con React que permite a los usuarios gestionar sus tareas diarias de manera eficiente.</li>
-  <li>📊 [Proyecto 2](enlace-al-proyecto): Un análisis exhaustivo de datos sobre el impacto del cambio climático en diferentes regiones del mundo, utilizando Python y bibliotecas de Ciencia de Datos.</li>
+  <li>📫 <a href="mailto:noel123mch@gmail.com">noel123mch@gmail.com</a></li>
 </ul>
+</td>
+</tr>
+</table>
 
-<h2>¡Contáctame!</h2>
-<ul>
-  <li>📫 [Correo Electrónico](mailto:noel123mch@gmail.com)</li>
-  <li>💼 [LinkedIn](https://www.linkedin.com/in/noe-ulises-machaca-chambilla-0a11472aa/)</li>
-  <li>🌐 [Sitio Web Personal](https://www.tusitio.com)</li>
-</ul>
 
 <h2>Estadísticas de GitHub</h2>
 <div align="center">
