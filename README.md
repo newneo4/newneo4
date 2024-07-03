@@ -112,6 +112,32 @@
 </tr>
 </table>
 
+## 🖥️DESARROLLO WEB
+<table>
+<tr>
+<td width="50%">
+<h3>BARTECH</h3>
+<div>
+<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">El proyecto fue un trabajo en equipo cuyo objetivo fue la creacion de una pagina web para un bar la cual es atractiva, intuitiva y facilmente adaptable a diversos negocios. La misma incluye un panel de administracion de personal y recursos, ademas de una interfaz atractiva y amigable para los clientes.</p>
+<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                            
+</td>
+<td width="50%">
+<h3>BAKING LOVE</h3>
+<div>                                       
+<a href="[Enlace-al-proyecto](https://github.com/newneo4/Dashboard-SQL-Injection)" target="_blank"><img src="URL-de-la-imagen" width="100%" alt="Descripción de la imagen"></a>
+<p align="justify">La busqueda de una web atractiva e innovadora para la venta y administracion de una panaderia nos llevo a un equipo ,del cual forme parte, a la integracion y creacion de una tienda virtual especializada la cual incluye una dashboard que permite agilizar y administrar ordenes, usuarios y reportes de ventas</p>
+</div>                                                             
+<a href="https://github.com/newneo4/Dashboard-SQL-Injection" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+</table>
+
 # 🌐 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-u-machaca/)
  <a href="mailto:noel123mch@gmail.com">
