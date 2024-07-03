@@ -101,7 +101,7 @@
 # 🌐 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-u-machaca/)
  <a href="mailto:noel123mch@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Correo%20Electrónico-%231DA1F2.svg?logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/%20Correo%20Electrónico-%231DA1F2.svg?logo=gmail&logoColor=white">
   </a>
 
 # 📊 Estadísticas de GitHub
