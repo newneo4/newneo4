@@ -22,7 +22,7 @@
   <li><h3>🖥️ Lenguajes de programación</h3></li>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,js,py,r,java,c" />
+      <img src="https://skillicons.dev/icons?i=cpp,js,py,r,java,c,ruby" />
     </a>
   </p>
   <li><h3>🌐 Desarrollo Web:</h3></li>
@@ -35,7 +35,7 @@
   <h4>Backend</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,express,mongodb,postgres,mysql,nextjs,flask" />
+      <img src="https://skillicons.dev/icons?i=nodejs,spring,express,mongodb,postgres,mysql,nextjs,flask,rails" />
     </a>
   </p>
   <li><h3>📊 Ciencia de Datos:</h3></li>
