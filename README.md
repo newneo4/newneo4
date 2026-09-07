@@ -179,9 +179,9 @@ Clasificación de imágenes dermatológicas para descarte temprano de cáncer de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=newneo4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=newneo4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newneo4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=newneo4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
