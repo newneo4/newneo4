@@ -1,206 +1,234 @@
-![pikaso_reimagine_digital-painting-Colorful-abstract-background-with](https://github.com/newneo4/newneo4/assets/105571999/0cfad50f-140d-45e3-a334-c6eee75153d0)
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:16213e&height=200&section=header&text=No%C3%A9%20Machaca&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20in%20Production&descAlignY=58&descSize=18&descColor=94a3b8&animation=fadeIn" />
 
+<!-- HERO -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hola+que+tal+!!+Mi+nombre+es+No%C3%A9" alt="Typing SVG">
-  </a>
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=64B5F6&center=true&vCenter=true&random=false&width=700&height=40&lines=Building+production+systems+for+real+clients+since+2024;React+%2F+Rails+%2F+NestJS+%2F+Next.js+%2F+React+Native;200%2B+users+%7C+50%2B+active+users+in+ERP+%7C+4+microservices;RENACYT+Researcher+%E2%80%94+10+IP+works+registered+at+INDECOPI" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://portafolio.noel123mch.workers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%97%88%20Ver%20Portafolio%203D%20Interactivo-0f3460?style=for-the-badge&logoColor=64B5F6" />
+</a>
+&ensp;
+<a href="https://github.com/newneo4/newneo4/raw/main/CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Descargar%20CV-0f3460?style=for-the-badge&logoColor=white" />
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/noe-u-machaca/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&ensp;
+<a href="mailto:noe.u.machaca@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=newneo4&color=64B5F6&style=flat-square&label=profile+views" />
+
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newneo4&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<br/>
 
-# 🔍 Sobre mí
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=2&section=header" width="100%"/>
 
-- 🎓 Actualmente estudio en la Universidad Nacional del Altiplano.</li>
-- 🌱 Estoy apasionado por aprender y mejorar mis habilidades en Ciencia de Datos y Desarrollo Web.</li>
-- 💼 Estoy buscando oportunidades para colaborar en proyectos desafiantes y emocionantes que me permitan aplicar mis conocimientos y seguir creciendo profesionalmente.</li>
-- ⚡ Dato curioso: ¡Adoro jugar al ajedrez y la programación competitiva considero que me ayuda a desarrollar habilidades analíticas y estratégicas!</li>
-- 📧 Si quieres enviarme un correo puedes hacerlo a <a href="mailto:noel123mch@gmail.com">noel123mch@gmail.com</a>.</li>
+<!-- ABOUT + METRICS -->
+### `$ whoami`
 
-<h2>💻 Habilidades y Tecnologías</h2>
-<ul>
-  <li><h3>🖥️ Lenguajes de programación</h3></li>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,js,py,r,java,c,ruby" />
-    </a>
-  </p>
-  <li><h3>🌐 Desarrollo Web:</h3></li>
-  <h4>Frontend</h4>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,bootstrap,figma,astro" />
-    </a>
-  </p>
-  <h4>Backend</h4>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,express,mongodb,postgres,mysql,nextjs,flask,rails" />
-    </a>
-  </p>
-  <li><h3>📊 Ciencia de Datos:</h3></li>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sklearn,selenium,tensorflow,opencv,pytorch" />
-    </a>
-  </p>
-  <li><h3>🛠️ Herramientas y Frameworks:</h3></li>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,linux,docker,ps" />
-    </a>
-  </p>
-</ul>
+> Full-Stack Developer con **2+ años construyendo sistemas en producción** para clientes reales — ERP de construcción, ecosistemas de salud digital, CRMs con IA y apps móviles. Entrego features end-to-end: modelado de datos, API, frontend y despliegue contenedorizado.
 
-# 🥇 Proyectos Destacados 
+Investigador activo **RENACYT Nivel VII** (CONCYTEC) y co-autor de **10 obras de software** registradas como PI ante INDECOPI.
+🎓 Egresado en **Ingeniería Estadística e Informática**, UNAP · Puno, Perú.
 
-## 📊DATA SCIENCE
+<br/>
+<div align="center">
+
+| 🏗️ Experiencia | 👥 Usuarios Activos | 🔬 Obras PI | 🌐 Proyectos | ☁️ Stacks |
+|:---:|:---:|:---:|:---:|:---:|
+| **2+ años** | **300+** | **10** | **8+** | **5** |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- EXPERIENCE TIMELINE -->
+### 💼 Experiencia
+
+- **CRM con IA** (Freelance, 2 clientes) — *2026 – presente*
+  <br/> `React` `TypeScript` `NestJS` `WhatsApp API`
+  <br/> ↳ Agente IA que clasifica y responde mensajes de clientes automáticamente.
+
+- **Lead Developer, VRI – UNAP** — *Mar 2026 – Jul 2026*
+  <br/> `Next.js` `Supabase` `Django` `Docker`
+  <br/> ↳ 4 microservicios institucionales · ~300 usuarios · RBAC + RLS + Rate Limiting.
+
+- **Full-Stack Developer, RentalControl** (Freelance) — *Ene 2025 – 2026*
+  <br/> `Ruby on Rails 7` `PostgreSQL` `Hotwire`
+  <br/> ↳ ERP construcción en producción · 50+ usuarios activos · 3–5 empresas.
+
+- **Full-Stack Developer, Pandoo CL** (Freelance) — *Sep 2025 – Ene 2026*
+  <br/> `React` `TypeScript` `Ruby on Rails` `AWS S3`
+  <br/> ↳ Form Builder drag-and-drop con firma digital · 10–50 formularios en producción.
+
+- **Software Developer, Endogastro Puno** — *Sep 2024 – 2026*
+  <br/> `React` `React Native` `Node.js` `Firebase`
+  <br/> ↳ Ecosistema de salud digital · 200+ usuarios web · app Android & iOS.
+
+<br/>
+
+<!-- TECH STACK -->
+### 🛠 Stack
+
+<div align="center">
+
+**Backend**
+
+[![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)](https://rubyonrails.org)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io)
+
+**Frontend & Mobile**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+
+**Data & Cloud**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3)
+
+**ML & Data Science**
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
+
+</div>
+
+<br/>
+
+<!-- SELECTED PROJECTS -->
+### 📌 Proyectos Seleccionados
+
 <table>
 <tr>
-<td width="50%">
-<h3>ANALISIS Y PREDICCION DE ABANDONO DE CARRITO</h3>
-<div>
-<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/ba697da8-7312-4856-939b-c3ea41c9e61f" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">La busqueda de la prediccion y las caracteristicas propias del abandono de carritos dentro de las web e-commerce nos llevo a mi equipo y a mi a un analisis exhaustivo y desarrollo de un modelo para la prediccion de los mismos</p>
-<a href="https://github.com/newneo4/c18-60-m-data-bi" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>                                                            
+<td width="50%" valign="top">
+
+**[DentIA](https://github.com/newneo4/DentIA)** &nbsp;`Python · CV · Streamlit`
+
+Detección de enfermedades dentales vía webcam o carga de imagen local. Obra registrada como PI ante INDECOPI. Desarrollado en el contexto de investigación aplicada en la UNAP.
+
+[![Repo](https://img.shields.io/badge/repo-0f3460?style=flat-square&logo=github)](https://github.com/newneo4/DentIA)
+
 </td>
-<td width="50%">
-<h3>PREDICCION DE SQL INJECTION</h3>
-<div>                                       
-<a href="https://github.com/newneo4/Dashboard-SQL-Injection" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/43510119-0502-4ea0-821c-37f54dc0c117" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">Los crecientes problemas de seguridad sobre consultas a Base de datos nos llevo a desarrollar una herramienta que pudiera prevenir las mismas de manera efectiva y simple el proyecto abarca este problema mediante la creacion de un dashboard interactivo y la carga de un modelo predictivo para SQL Injection.</p>
-</div>                                                             
-<a href="https://github.com/newneo4/Dashboard-SQL-Injection" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-  <a href="https://dashboard-sql-injection.streamlit.app/" target="_blank" rel="noopener noreferrer">
-              <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
-           </a>
+<td width="50%" valign="top">
+
+**[SQL Injection Dashboard](https://github.com/newneo4/Dashboard-SQL-Injection)** &nbsp;`Python · Streamlit · ML`
+
+Dashboard interactivo + modelo predictivo para detección de SQL Injection. Incluye API REST pública deployada en producción.
+
+[![Repo](https://img.shields.io/badge/repo-0f3460?style=flat-square&logo=github)](https://github.com/newneo4/Dashboard-SQL-Injection)
+[![API](https://img.shields.io/badge/API-0f3460?style=flat-square&logo=swagger)](https://servicio-detector-sql-injection.onrender.com/api/docs/)
+[![Demo](https://img.shields.io/badge/demo-0f3460?style=flat-square&logo=streamlit)](https://dashboard-sql-injection.streamlit.app/)
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3>DETECCION DE CANCER DE PIEL</h3>
-<div>
-<a href="https://github.com/newneo4/skin_cancer" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/d8f1ecb8-b120-472f-8016-497831e89747" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">Un aumento significativo en casos de cancer de piel durante los ultimos años me llevo a desarrollar una herramienta que pudiera facilitar y agilizar descartes tempranos de cancer de piel mediante la toma de imagenes y el desarrollo de un modelo que clasifica de forma eficaz la ausencia o presencia del tipo de cancer en el paciente.</p>
-<a href="https://github.com/newneo4/skin_cancer" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-FC911C?style=for-the-badge&logo=github&logoColor=white">
-</a>
-  <a href="https://skincancer-ebtmaenvnhqqg6inxpr6fh.streamlit.app/" target="_blank" rel="noopener noreferrer">
-              <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
-           </a>
-</div>                                                            
+<td width="50%" valign="top">
+
+**[Dental Health Platform](https://github.com/LasPepitas/Odontologica)** &nbsp;`React · Node.js`
+
+Plataforma web de gestión de citas, historial clínico y odontograma. Roles de pacientes y panel de administración para dentistas.
+
+[![Repo](https://img.shields.io/badge/repo-0f3460?style=flat-square&logo=github)](https://github.com/LasPepitas/Odontologica)
+[![Demo](https://img.shields.io/badge/demo-0f3460?style=flat-square&logo=cloudflare)](https://odontologica.pages.dev)
+
 </td>
-<td width="50%">
-<h3>API SQL Injection</h3>
-<div>                                       
-<a href="https://github.com/newneo4/Servicio-Detector-SQL-Injection" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/81d38151-a259-408d-ad83-355d77c5355b" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">La agilizacion y accesibilidad al servicio de prediccion de SQL Injection me llevo a desarrollar una API intuitiva para la consulta y prediccion de la misma dado un input basado en una querie.</p>
-</div>                                                             
-<a href="https://github.com/newneo4/Servicio-Detector-SQL-Injection" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
-</a>
-  <a href="https://servicio-detector-sql-injection.onrender.com/api/docs/" target="_blank" rel="noopener noreferrer">
-              <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
-          </a>
-</td>
-</tr>
-<td width="50%">
-<h3>DETECTOR ENFERMEDADES DENTALES</h3>
-<div>                                       
-<a href="https://github.com/newneo4/DentIA" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/58f9599d-db4b-4c59-91a1-f3c7a6a1a0fd" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">Una accesibilidad rapida y barata puede ayudar a la prevencion de muchas enfermedades en este caso las dentalles. El proyecto abarca la toma de imagenes dentales propias mediante una webcam o una camara de celular para la deteccion de enfermedades dentales teniendo una interfaz amigable y facil de entender, ademas de permitir la carga de imagenes locales para su posterior prediccion.</p>
-</div>                                                             
-<a href="https://github.com/newneo4/DentIA" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-1A3467?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<td width="50%" valign="top">
+
+**[Skin Cancer Classifier](https://github.com/newneo4/skin_cancer)** &nbsp;`Python · TensorFlow · Streamlit`
+
+Clasificación de imágenes dermatológicas para descarte temprano de cáncer de piel. Obra de PI registrada ante INDECOPI.
+
+[![Repo](https://img.shields.io/badge/repo-0f3460?style=flat-square&logo=github)](https://github.com/newneo4/skin_cancer)
+[![Demo](https://img.shields.io/badge/demo-0f3460?style=flat-square&logo=streamlit)](https://skincancer-ebtmaenvnhqqg6inxpr6fh.streamlit.app/)
+
 </td>
 </tr>
 </table>
 
-## 🖥️DESARROLLO WEB
-<table>
-<tr>
-<td width="50%">
-<h3>BARTECH</h3>
-<div>
-<a href="https://github.com/newneo4/Bartech" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/e4c6889e-78c4-4251-87cb-fa43b1eb890e" alt="Descripción de la imagen"></a>
-<p align="justify">El proyecto fue un trabajo en equipo cuyo objetivo fue la creacion de una pagina web para un bar la cual es atractiva, intuitiva y facilmente adaptable a diversos negocios. La misma incluye un panel de administracion de personal y recursos, ademas de una interfaz atractiva y amigable para los clientes.</p>
-<a href="https://github.com/newneo4/Bartech" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
-</a>
-    <a href="https://c17-17-n-node-react.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
-</a>
-</div>                                                            
-</td>
-<td width="50%">
-<h3>BAKING LOVE</h3>
-<div>                                       
-<a href="https://github.com/newneo4/Baking-Love" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/35587fb4-aa27-41f2-a990-758f6b2f5ffb" width="100%" alt="Descripción de la imagen"></a>
-<p align="justify">La busqueda de una web atractiva e innovadora para la venta y administracion de una panaderia nos llevo a un equipo ,del cual forme parte, a la integracion y creacion de una tienda virtual especializada la cual incluye una dashboard que permite agilizar y administrar ordenes, usuarios y reportes de ventas</p>
-</div>                                                             
-<a href="https://github.com/newneo4/Baking-Love" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-  <a href="https://baking-love.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
-</a>
-</td>
-</tr>
-  <tr>
-<td width="50%">
-<h3>DENTAL HEALTH</h3>
-<div>
-<a href="https://github.com/LasPepitas/Odontologica" target="_blank"><img src="https://github.com/newneo4/newneo4/assets/105571999/99657943-399b-46a9-b8b7-0f11b115216b" width="100%" alt="DASHBOARD DENTISTA"></a>
-<p align="justify">La poca facilidad de gestion de citas ademas de las dificultades de administracion en una clinica dental nos llevo a desarrollar una plataforma web que comprende la gestion de reserva de citas y cuenta personalizada de pacientes y la administracion de los mismos de parte de los dentistas ademas de componentes de historial clinico y odontograma para la automatizacion de estos procesos contando con procesos de autenticado y facil escalibilidad</p>
-<a href="https://github.com/LasPepitas/Odontologica" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://odontologica.pages.dev" target="_blank" rel="noopener noreferrer">
-    <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
-</a>
-</div>                                                            
-</td>
-</tr>
-</table>
+<br/>
 
-# 🌐 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-u-machaca/)
- <a href="mailto:noel123mch@gmail.com">
-    <img src="https://img.shields.io/badge/%20Correo%20Electrónico-%231DA1F2.svg?logo=gmail&logoColor=white">
-  </a>
+<!-- GITHUB STATS -->
+### 📊 GitHub
 
-# 📊 Estadísticas de GitHub
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=newneo4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newneo4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=newneo4&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" />
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
 <div align="center">
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=newneo4&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=newneo4&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=newneo4&show_icons=true" alt="Estadísticas de GitHub de Noé" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=newneo4&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=newneo4&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newneo4&layout=compact" alt="Top Lenguajes" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newneo4/newneo4/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/newneo4/newneo4/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/newneo4/newneo4/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
-<p align="center">
-  ¡No dudes en contactarme si tienes alguna pregunta o sugerencia! ¡Espero poder conectarme contigo pronto y colaborar en proyectos increíbles juntos!
-</p>
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f3460&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+<br/>
+
+**¿Tienes un proyecto?** — Escríbeme directo.
+
+<a href="https://portafolio.noel123mch.workers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%97%88%20Portafolio%203D-0f3460?style=for-the-badge&logoColor=64B5F6" />
+</a>
+&ensp;
+<a href="https://github.com/newneo4/newneo4/raw/main/CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Descargar%20CV-0f3460?style=for-the-badge&logoColor=white" />
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/noe-u-machaca/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&ensp;
+<a href="mailto:noe.u.machaca@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d1117&height=120&section=footer" />
