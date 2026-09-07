@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://portafolio.noel123mch.workers.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%97%88%20Ver%20Portafolio%203D%20Interactivo-0f3460?style=for-the-badge&logoColor=64B5F6" />
+  <img src="https://img.shields.io/badge/%E2%97%88%20Ver%20Portafolio-0f3460?style=for-the-badge&logoColor=64B5F6" />
 </a>
 &ensp;
 <a href="https://github.com/newneo4/newneo4/raw/main/CV.pdf" target="_blank">
@@ -60,7 +60,7 @@ Investigador activo **RENACYT Nivel VII** (CONCYTEC) y co-autor de **10 obras de
 <!-- EXPERIENCE TIMELINE -->
 ### 💼 Experiencia
 
-- **CRM con IA** (Freelance, 2 clientes) — *2026 – presente*
+- **CRM con IA** (2 clientes) — *2026 – presente*
   <br/> `React` `TypeScript` `NestJS` `WhatsApp API`
   <br/> ↳ Agente IA que clasifica y responde mensajes de clientes automáticamente.
 
@@ -68,11 +68,11 @@ Investigador activo **RENACYT Nivel VII** (CONCYTEC) y co-autor de **10 obras de
   <br/> `Next.js` `Supabase` `Django` `Docker`
   <br/> ↳ 4 microservicios institucionales · ~300 usuarios · RBAC + RLS + Rate Limiting.
 
-- **Full-Stack Developer, RentalControl** (Freelance) — *Ene 2025 – 2026*
+- **Full-Stack Developer, RentalControl** — *Ene 2025 – 2026*
   <br/> `Ruby on Rails 7` `PostgreSQL` `Hotwire`
   <br/> ↳ ERP construcción en producción · 50+ usuarios activos · 3–5 empresas.
 
-- **Full-Stack Developer, Pandoo CL** (Freelance) — *Sep 2025 – Ene 2026*
+- **Full-Stack Developer, Pandoo CL** — *Sep 2025 – Ene 2026*
   <br/> `React` `TypeScript` `Ruby on Rails` `AWS S3`
   <br/> ↳ Form Builder drag-and-drop con firma digital · 10–50 formularios en producción.
 
